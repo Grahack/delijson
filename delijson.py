@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Parse HTML exports of Delicious bookmarks.
+"""Parse HTML exports of Delicious bookmarks to create JSON reports.
 
 See the README.md and LICENCE for more informations.
 http://https://github.com/Grahack/delijson

@@ -1,7 +1,7 @@
 delijson
 ========
 
-Parse HTML exports of Delicious bookmarks and create JSON reports.
+Parse HTML exports of Delicious bookmarks to create JSON reports.
 
 Github repo: <https://github.com/Grahack/delijson>
 
